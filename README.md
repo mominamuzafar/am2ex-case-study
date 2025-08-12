@@ -32,5 +32,6 @@ The goal was to develop a fully functional online store with a smooth shopping e
 
 ## Screenshots  
 ![Home](assets/home.png)  
+![Services](assets/services.png) 
 ![Mobile](assets/mobile.png)  
 
