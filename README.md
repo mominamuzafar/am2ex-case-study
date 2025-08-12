@@ -17,15 +17,15 @@ The goal was to develop a fully functional online store with a smooth shopping e
 - Elementor & Elementor Pro  
 - WooCommerce  
 - LiteSpeed Cache  
-- HTML, CSS, JavaScript  
-- SEO optimization tools  
+- Yoast SEO (or other SEO plugin)  
+- Image optimization plugins (e.g., Smush or ShortPixel)  
 
 ## My Role  
-- Front-end development  
+- Theme setup & customization  
 - WooCommerce configuration  
 - Payment gateway integration  
-- Performance optimization  
-- Product page layout design  
+- Performance optimization via caching & image compression  
+- Product page layout design using Elementor  
 
 ## Project Link  
 [Live Website](https://am2ex.com/)  
