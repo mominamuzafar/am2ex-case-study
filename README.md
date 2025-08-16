@@ -32,14 +32,5 @@ The goal was to create a responsive e-commerce site with clear product categorie
 
 [Visit AM2EX](https://am2ex.com/)
 
-## Screenshots  
-<details>
-<summary>📸 View Screens</summary>
-**Homepage**  
-![Home](assets/home.png) 
-**Services Page**
-![Services](assets/services.png) 
-**Contact Page**  
-![Mobile](assets/mobile.png)  
-</details>
+
 
