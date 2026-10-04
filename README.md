@@ -1,38 +1,46 @@
-# AM2EX E-Commerce Website – Case Study
-A custom WooCommerce store for AM2EX, designed for a smooth shopping experience with optimized checkout flow.
+# AM2EX E-Commerce Website | Case Study
 
-## 📌 Project Overview
-The goal was to create a responsive e-commerce site with clear product categories, fast page loads, and an efficient checkout system to maximize conversions.
+A custom WooCommerce store for AM2EX, built for a smooth shopping experience and a simpler checkout flow.
 
-## 🛠 Tech Stack
-- **WordPress**
-- **WooCommerce**
+## Project Overview
+
+The goal was a responsive e-commerce site with clear product categories, fast load times, and a checkout process that didn't lose customers halfway through.
+
+## Tech Stack
+
+- WordPress
+- WooCommerce
 - Elementor Pro
-- Payment Gateway Integration
+- Payment gateway integration
 - LiteSpeed Cache
-  
-## 💼 My Role
-- WooCommerce setup & configuration
+
+## My Role
+
+- WooCommerce setup and configuration
 - Product category and filter design
 - Checkout flow optimization
 - Mobile responsiveness tuning
 - Basic SEO for product pages
-  
-## 🚀 Key Results
-- Reduced checkout abandonment by streamlining steps
+
+## Key Results
+
+- Reduced checkout abandonment by simplifying the steps
 - Improved mobile shopping experience
 - Integrated secure payment gateways
-  
-## ⚡ Challenges & Solutions
-**Challenge:** Long and confusing checkout process. 
 
-**Solution:** Customized checkout page to minimize fields and improve clarity.
+## Challenge
 
-## 🔗 Live Project
+The original checkout process was long and confusing.
 
-[Visit AM2EX](https://am2ex.com/)
+## Solution
 
-## 📸 Screenshots
+Customized the checkout page to cut down fields and make each step clearer.
+
+## Live Project
+
+Visit [AM2EX](https://am2ex.com/)
+
+## Screenshots
 <details>
   <summary>View</summary>
   
